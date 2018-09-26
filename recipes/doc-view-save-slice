@@ -1,0 +1,4 @@
+(doc-view-save-slice
+ :fetcher github
+ :repo "cestrand/doc-view-save-slice.el"
+ :branch "master")
